@@ -1,8 +1,8 @@
 patch:
-  # 设置「薄荷拼音-全拼输入」的词典，使用 rime_mint.custom.dict.yaml 文件
-  translator/dictionary: rime_mint.custom
+  # 设置「薄荷拼音-全拼输入」的词典，使用 rime_mint_custom.dict.yaml 文件
+  translator/dictionary: rime_mint_custom
 
   # 语言模型
-  "grammar/language": amz-v3n2m1-zh-hans
+  "grammar/language": wanxiang-lts-zh-hans
   "grammar/collocation_max_length": 5
   "grammar/collocation_min_length": 2
