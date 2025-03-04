@@ -4,7 +4,7 @@
 #------行政区划------
 ---
 name: place
-version: "2025-03-02 00:04"
+version: "2025-03-03 19:57"
 sort: by_weight
 ...
 阿坝	ā bà	601
@@ -29215,7 +29215,7 @@ sort: by_weight
 牛辛庄村	niú xīn zhuāng cūn	1
 牛兴沟村	niú xīng gōu cūn	1
 牛兴山村	niú xīng shān cūn	1
-牛眼睛村	niú yǎn jīng cūn	1
+牛眼睛村	niú yǎn jing cūn	1
 牛营子村	niú yíng zi cūn	1
 牛营子乡	niú yíng zi xiāng	105
 牛营子镇	niú yíng zi zhèn	116
@@ -35982,7 +35982,7 @@ sort: by_weight
 王沟湾村	wáng gōu wān cūn	1
 王古城村	wáng gǔ chéng cūn	1
 王谷梁村	wáng gǔ liáng cūn	1
-王姑娘庄	wáng gū niáng zhuāng	1
+王姑娘庄	wáng gū niang zhuāng	1
 王瓜店镇	wáng guā diàn zhèn	77
 王瓜营村	wáng guā yíng cūn	1
 王官集镇	wáng guān jí zhèn	58

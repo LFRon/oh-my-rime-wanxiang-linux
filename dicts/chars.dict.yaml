@@ -3,7 +3,7 @@
 #https://github.com/amzxyz/RIME-LMDG
 ---
 name: chars
-version: "2025-03-02 00:04"
+version: "2025-03-03 19:57"
 sort: by_weight
 ...
 啊	a	915
@@ -27976,9 +27976,9 @@ sort: by_weight
 𨸇	pián	1
 𪘀	pián	1
 𪚏	pián	1
-票	piào	761
+飘	piāo	761
 漂	piào	660
-飘	piāo	620
+票	piào	620
 漂	piāo	599
 朴	piáo	543
 嫖	piáo	516
@@ -43596,6 +43596,8 @@ sort: by_weight
 以	yǐ	901
 一	yī	848
 壹	yī	840
+乙	yǐ	836
+姨	yí	833
 意	yì	831
 已	yǐ	806
 宜	yí	800
@@ -43622,8 +43624,6 @@ sort: by_weight
 役	yì	651
 椅	yǐ	646
 翼	yì	640
-乙	yǐ	636
-姨	yí	618
 逸	yì	609
 毅	yì	606
 溢	yì	600
@@ -47910,9 +47910,9 @@ sort: by_weight
 𫜂	zhāng	1
 找	zhǎo	771
 照	zhào	767
+赵	zhào	762
 招	zhāo	734
 召	zhào	676
-赵	zhào	672
 着	zháo	629
 罩	zhào	614
 昭	zhāo	612

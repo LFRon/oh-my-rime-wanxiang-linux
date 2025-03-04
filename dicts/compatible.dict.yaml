@@ -4,7 +4,7 @@
 #兼容词库，对于多字词汇两种读音的场景，手动维护到本表以及一些其他的杂项
 ---
 name: compatible
-version: "2025-03-02 00:04"
+version: "2025-03-03 19:57"
 sort: by_weight
 ...
 长点儿	cháng diǎn ér	293
@@ -13,6 +13,15 @@ sort: by_weight
 就得到	jiù dé dào	498
 掉色	diào sè	552
 掉色	diào shǎi	552
+大方	dà fang	676
+沉甸甸	chén diān diān	380
+沉甸甸	chén diàn diàn	380
+热腾腾	rè téng téng	447
+热腾腾	rè tēng tēng	447
+大爷	dà yé	646
+兄弟	xiōng di	735
+姑父	gū fù	491
+女婿	nǚ xù	600
 朝阳	zhāo yáng	660
 朝阳	cháo yáng	660
 单行	dān xíng	504
