@@ -8,3 +8,5 @@
 ## 1.在rime_mint.schema.yaml引入的dict里加入了万象PRO词库,并按照https://github.com/amzxyz/RIME-LMDG/wiki/%E5%B0%86%E4%B8%87%E8%B1%A1%E8%AF%8D%E5%BA%93%E8%BF%81%E7%A7%BB%E5%88%B0%E4%BD%A0%E7%9A%84%E9%A1%B9%E7%9B%AE 的指南合并了声调支持
 
 ## 2.在rime_mint_custom.yaml中合并了语言模型的支持
+
+## 3.增加了git-lfs支持
