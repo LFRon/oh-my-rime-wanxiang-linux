@@ -4,7 +4,7 @@
 #错音错字对照表
 ---
 name: corrections
-version: "2025-01-01"
+version: "LTS"
 sort: by_weight
 ...
 株木琅玛	zhū mù láng mǎ	12	(有声)
@@ -24,6 +24,7 @@ sort: by_weight
 食话食说	shí huà shí shuō	247	(节目)
 大栅栏	da zha lan	232	dà shí làn
 东庠岛	dong yang dao	98	东庠(xiáng)岛
+阻塞	zu sai	20	阻塞(sè)
 句芒	ju mang	317	句(gōu)芒
 烘焙	hong pei	402	hōng bèi
 谄媚	xian mei	303	chǎn mèi
@@ -42,7 +43,7 @@ sort: by_weight
 珲春	hui chun	462	hún chūn
 甪直	yong zhi	436	lù zhí
 五厍	wu ku	358	wú shè
-台州	tái zhōu	593	tāi zhōu
+台州	tái zhōu	400	tāi zhōu
 膻中	shan zhong	364	膻(dàn)中
 渑池	yin chi	400	miǎn chí
 渑池	sheng chi	400	miǎn chí
