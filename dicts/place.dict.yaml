@@ -1565,8 +1565,7 @@ sort: by_weight
 民雄	mín xióng	446
 民乐	mín yuè	522
 明光	míng guāng	446
-名间	míng jiān	440
-名山	míng shān	558
+名间	míng jiān	340
 明山	míng shān	383
 明水	míng shuǐ	421
 明溪	míng xī	353
@@ -3767,6 +3766,7 @@ sort: by_weight
 达坂城	dá bǎn chéng	328
 大埔县	dà bù xiàn	205
 大埔乡	dà bù xiāng	1
+大城堡	dà chéng bǎo	183
 达川区	dá chuān qū	182
 大村乡	dà cūn xiāng	1
 大碉堡	dà diāo bǎo	151
@@ -3785,6 +3785,7 @@ sort: by_weight
 大湖乡	dà hú xiāng	1
 大湖镇	dà hú zhèn	178
 大皇堡	dà huáng bǎo	251
+大黄堡	dà huáng bǎo	175
 大甲区	dà jiǎ qū	1
 大甲镇	dà jiǎ zhèn	297
 大朗镇	dà lǎng zhèn	399
@@ -3815,6 +3816,7 @@ sort: by_weight
 大同市	dà tóng shì	450
 大同乡	dà tóng xiāng	387
 大洼区	dà wā qū	156
+大王镇	dà wáng zhèn	304
 大武口	dà wǔ kǒu	315
 大悟县	dà wù xiàn	226
 大武乡	dà wǔ xiāng	1
@@ -3839,13 +3841,10 @@ sort: by_weight
 大竹县	dà zhú xiàn	244
 达孜区	dá zī qū	1
 大足区	dà zú qū	209
-大城堡	dài chéng bǎo	183
 大城县	dài chéng xiàn	174
 大城乡	dài chéng xiāng	1
 大城镇	dài chéng zhèn	300
-大黄堡	dài huáng bǎo	175
 岱山县	dài shān xiàn	170
-大王镇	dài wáng zhèn	304
 岱岳区	dài yuè qū	174
 丹巴县	dān bā xiàn	188
 丹北镇	dān běi zhèn	100
@@ -5947,6 +5946,7 @@ sort: by_weight
 雷甸镇	léi diān zhèn	196
 雷洞村	léi dòng cūn	112
 雷峰村	léi fēng cūn	82
+雷峰乡	léi fēng xiāng	215
 雷锋镇	léi fēng zhèn	255
 雷峰镇	léi fēng zhèn	145
 雷高镇	léi gāo zhèn	94
@@ -7167,6 +7167,7 @@ sort: by_weight
 暖暖区	nuǎn nuǎn qū	157
 瓯海区	ōu hǎi qū	210
 欧乐堡	ōu lè bǎo	332
+𠙶山镇	ǒu shān zhèn	94
 磐安县	pán ān xiàn	184
 潘集区	pān jí qū	149
 潘家堡	pān jiā bǎo	142
@@ -7475,6 +7476,7 @@ sort: by_weight
 全州县	quán zhōu xiàn	182
 全州镇	quán zhōu zhèn	100
 确山县	què shān xiàn	188
+群益村	qún yì cūn	163
 让胡路	ràng hú lù	1
 壤塘县	rǎng táng xiàn	140
 饶河县	ráo hé xiàn	152
@@ -11400,7 +11402,7 @@ sort: by_weight
 报庄子村	bào zhuāng zǐ cūn	1
 豹子沟村	bào zi gōu cūn	1
 豹子坪村	bào zi píng cūn	1
-包子铺村	bāo zǐ pù cūn	1
+包子铺村	bāo zi pù cūn	1
 豹子山村	bào zi shān cūn	77
 报子营村	bào zǐ yíng cūn	1
 豹子峪村	bào zi yù cūn	1
@@ -12678,7 +12680,7 @@ sort: by_weight
 草甸水村	cǎo diān shuǐ cūn	1
 曹洞沟村	cáo dòng gōu cūn	1
 曹杜河村	cáo dù hé cūn	1
-草垛塄村	cǎo duǒ léng cūn	1
+草垛塄村	cǎo duò léng cūn	1
 草房梁村	cǎo fáng liáng cūn	1
 曹妃甸区	cáo fēi diān qū	351
 草佛寺村	cǎo fó sì cūn	1
@@ -14213,8 +14215,14 @@ sort: by_weight
 大槐树村	dà huái shù cūn	187
 大槐树镇	dà huái shù zhèn	225
 大唤起乡	dà huàn qǐ xiāng	35
+大黄堡乡	dà huáng bǎo xiāng	1
 大荒地村	dà huāng dì cūn	285
 大荒沟村	dà huāng gōu cūn	116
+大黄沟乡	dà huáng gōu xiāng	105
+大黄集镇	dà huáng jí zhèn	35
+大黄巍乡	dà huáng wēi xiāng	156
+大黄冶村	dà huáng yě cūn	1
+大黄庄镇	dà huáng zhuāng zhèn	35
 大灰厂村	dà huī chǎng cūn	105
 大汲店村	dà jí diàn cūn	207
 大箕铺镇	dà jī pù zhèn	282
@@ -14569,8 +14577,17 @@ sort: by_weight
 大湾沟村	dà wān gōu cūn	1
 大湾罗乡	dà wān luó xiāng	58
 大湾子村	dà wān zi cūn	57
+大王店镇	dà wáng diàn zhèn	225
+大王府村	dà wáng fǔ cūn	1
+大王古庄	dà wáng gǔ zhuāng	168
+大王集村	dà wáng jí cūn	1
+大王里村	dà wáng lǐ cūn	1
 大旺务村	dà wàng wù cūn	300
+大王寨乡	dà wáng zhài xiāng	1
+大王庄村	dà wáng zhuāng cūn	173
 大旺庄村	dà wàng zhuāng cūn	35
+大王庄乡	dà wáng zhuāng xiāng	116
+大王庄镇	dà wáng zhuāng zhèn	199
 大圩古镇	dà wéi gǔ zhèn	363
 大魏家村	dà wèi jiā cūn	1
 大围山镇	dà wéi shān zhèn	299
@@ -14775,13 +14792,7 @@ sort: by_weight
 岱格庄村	dài gé zhuāng cūn	1
 代官屯村	dài guān tún cūn	77
 带湖山庄	dài hú shān zhuāng	1
-大黄堡乡	dài huáng bǎo xiāng	1
-大黄沟乡	dài huáng gōu xiāng	105
-大黄集镇	dài huáng jí zhèn	35
 代黄口村	dài huáng kǒu cūn	1
-大黄巍乡	dài huáng wēi xiāng	156
-大黄冶村	dài huáng yě cūn	1
-大黄庄镇	dài huáng zhuāng zhèn	35
 代家坝镇	dài jiā bà zhèn	187
 戴家场村	dài jiā chǎng cūn	1
 戴家场镇	dài jiā chǎng zhèn	162
@@ -14820,15 +14831,6 @@ sort: by_weight
 埭头蔡村	dài tóu cài cūn	1
 代瓦尼乡	dài wǎ ní xiāng	1
 代王城镇	dài wáng chéng zhèn	142
-大王店镇	dài wáng diàn zhèn	225
-大王府村	dài wáng fǔ cūn	1
-大王古庄	dài wáng gǔ zhuāng	168
-大王集村	dài wáng jí cūn	1
-大王里村	dài wáng lǐ cūn	1
-大王寨乡	dài wáng zhài xiāng	1
-大王庄村	dài wáng zhuāng cūn	173
-大王庄乡	dài wáng zhuāng xiāng	116
-大王庄镇	dài wáng zhuāng zhèn	199
 岱武岔村	dài wǔ chà cūn	1
 岱峡河村	dài xiá hé cūn	1
 呆鹰岭镇	dāi yīng lǐng zhèn	156
@@ -22963,7 +22965,7 @@ sort: by_weight
 九龙镇镇	jiǔ lóng zhèn zhèn	92
 久木野村	jiǔ mù yě cūn	125
 九女集镇	jiǔ nǚ jí zhèn	92
-九曲河村	jiǔ qǔ hé cūn	35
+九曲河村	jiǔ qū hé cūn	35
 旧泉坊村	jiù quán fāng cūn	1
 旧染井村	jiù rǎn jǐng cūn	1
 旧山吓村	jiù shān xià cūn	1
@@ -24399,7 +24401,7 @@ sort: by_weight
 莲花洞村	lián huā dòng cūn	1
 莲花沟村	lián huā gōu cūn	1
 莲花口村	lián huā kǒu cūn	1
-莲花泡村	lián huā pào cūn	1
+莲花泡村	lián huā pāo cūn	1
 莲花盆村	lián huā pén cūn	1
 莲花寺村	lián huā sì cūn	58
 莲花寺镇	lián huā sì zhèn	105
@@ -30938,7 +30940,7 @@ sort: by_weight
 三元朱村	sān yuán zhū cūn	216
 三张店乡	sān zhāng diàn xiāng	1
 三爪仑乡	sān zhǎo lún xiāng	149
-三只羊乡	sān zhǐ yáng xiāng	58
+三只羊乡	sān zhī yáng xiāng	58
 三洲山村	sān zhōu shān cūn	1
 三座庵村	sān zuò ān cūn	116
 三座店乡	sān zuò diàn xiāng	1
@@ -32068,7 +32070,7 @@ sort: by_weight
 石堆山村	shí duī shān cūn	1
 石墩河乡	shí dūn hé xiāng	35
 石朵河村	shí duǒ hé cūn	1
-石垛坪村	shí duǒ píng cūn	1
+石垛坪村	shí duò píng cūn	1
 十二号村	shí èr hào cūn	34
 十二户村	shí èr hù cūn	1
 十二里庄	shí èr lǐ zhuāng	199
@@ -42385,7 +42387,7 @@ sort: by_weight
 月家庄村	yuè jiā zhuāng cūn	1
 岳家庄乡	yuè jiā zhuāng xiāng	77
 月亮沟村	yuè liàng gōu cūn	1
-月亮泡镇	yuè liàng pào zhèn	116
+月亮泡镇	yuè liàng pāo zhèn	116
 月亮坡村	yuè liàng pō cūn	125
 月亮湾村	yuè liàng wān cūn	116
 月亮峡村	yuè liàng xiá cūn	1
@@ -42964,7 +42966,7 @@ sort: by_weight
 张炉集镇	zhāng lú jí zhèn	178
 张路口村	zhāng lù kǒu cūn	35
 张陆湾村	zhāng lù wān cūn	1
-张罗沟村	zhāng luó gōu cūn	1
+张罗沟村	zhāng luo gōu cūn	1
 张马河村	zhāng mǎ hé cūn	1
 张马洪村	zhāng mǎ hóng cūn	1
 张码头村	zhāng mǎ tóu cūn	1
@@ -44725,6 +44727,7 @@ sort: by_weight
 德宏傣族景颇族自治州	dé hóng dǎi zú jǐng pō zú zì zhì zhōu	357
 杜尔伯特蒙古族自治县	dù ěr bó tè měng gǔ zú zì zhì xiàn	294
 恩施土家族苗族自治州	ēn shī tǔ jiā zú miáo zú zì zhì zhōu	379
+甘肃省甘南藏族自治州	gān sù shěng gān nán zàng zú zì zhì zhōu	227
 贡山独龙族怒族自治县	gòng shān dú lóng zú nù zú zì zhì xiàn	287
 关岭布依族苗族自治县	guān lǐng bù yī zú miáo zú zì zhì xiàn	277
 海西蒙古族藏族自治州	hǎi xī měng gǔ zú zàng zú zì zhì zhōu	434
@@ -44735,6 +44738,7 @@ sort: by_weight
 宁洱哈尼族彝族自治县	níng ěr hā ní zú yí zú zì zhì xiàn	1
 彭水苗族土家族自治县	péng shuǐ miáo zú tǔ jiā zú zì zhì xiàn	298
 黔东南苗族侗族自治州	qián dōng nán miáo zú dòng zú zì zhì zhōu	469
+黔江土家族苗族自治县	qián jiāng tǔ jiā zú miáo zú zì zhì xiàn	10
 黔南布依族苗族自治州	qián nán bù yī zú miáo zú zì zhì zhōu	377
 围场满族蒙古族自治县	wéi chǎng mǎn zú měng gǔ zú zì zhì xiàn	330
 务川仡佬族苗族自治县	wù chuān gē lǎo zú miáo zú zì zhì xiàn	1
@@ -44743,6 +44747,7 @@ sort: by_weight
 伊犁伊犁哈萨克自治州	yī lí yī lí hā sà kè zì zhì zhōu	1
 印江土家族苗族自治县	yìn jiāng tǔ jiā zú miáo zú zì zhì xiàn	268
 酉阳土家族苗族自治县	yǒu yáng tǔ jiā zú miáo zú zì zhì xiàn	321
+云南省迪庆藏族自治州	yún nán shěng dí qìng zàng zú zì zhì zhōu	329
 镇宁布依族苗族自治县	zhèn níng bù yī zú miáo zú zì zhì xiàn	279
 紫云苗族布依族自治县	zǐ yún miáo zú bù yī zú zì zhì xiàn	261
 金平苗族瑶族傣族自治县	jīn píng miáo zú yáo zú dǎi zú zì zhì xiàn	264
